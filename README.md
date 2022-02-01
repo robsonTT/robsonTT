@@ -24,6 +24,6 @@
   <a href="https://instagram.com/robsilvabjj" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" target="_blank"></a>
 </center>
 
-  ![Snake animation](https://github.com/robsonTT/robsonTTd/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/robsonTT/robsonTT/blob/output/github-contribution-grid-snake.svg)
   
 </div>
